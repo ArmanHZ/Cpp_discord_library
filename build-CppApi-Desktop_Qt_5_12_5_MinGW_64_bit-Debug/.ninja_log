@@ -1,0 +1,6 @@
+# ninja log v5
+1	76	0	CMakeFiles/CppApi_autogen	27fbffbe915c4a60
+1	76	0	CppApi_autogen/mocs_compilation.cpp	27fbffbe915c4a60
+76	130	6012565178541486	CMakeFiles/CppApi.dir/CppApi_autogen/mocs_compilation.cpp.obj	2a3c7772581c70b7
+78	989	6012565187158600	CMakeFiles/CppApi.dir/main.cpp.obj	a1027aaddab72e87
+992	1084	6012565188036574	CppApi.exe	fc0358931f76bad7
